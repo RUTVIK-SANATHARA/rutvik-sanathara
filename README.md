@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Vaistra Technologies]
 
-- 💬 Ask me about **React js , Next js ,Laravel**
+- 💬 Ask me about **React js , Next js , Laravel**
 
 - 📫 How to reach me **rutvik.sanathara1109@gmail.com**
 
