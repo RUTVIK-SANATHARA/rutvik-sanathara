@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rutvik Sanathara</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" alt="coding" with="400" align="right">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutvik-sanathara&label=Profile%20views&color=0e75b6&style=flat" alt="rutvik-sanathara" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/D5616AQGq-loho4VkYg/profile-displaybackgroundimage-shrink_350_1400/0/1672393814210?e=1681948800&v=beta&t=wm2ynslChUjzcxzEnpM2QDUxRLIg--W3dP0kCJ25CY0/?username=rutvik-sanathara&label=Profile%20views&color=0e75b6&style=flat" alt="rutvik-sanathara" /> </p>
 
 - 🔭 I’m currently working on [Vaistra Technologies]
 
