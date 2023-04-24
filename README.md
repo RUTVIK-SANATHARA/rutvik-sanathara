@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Digiqt Technolabs]
 
-- 💬 Ask me about **React js , Next js , Laravel**
+- 💬 Ask me about **React js , Next js , Laravel , Typescript , Tailwind , Bootstrap**
 
 - 📫 How to reach me **rutvik.sanathara1109@gmail.com**
 
