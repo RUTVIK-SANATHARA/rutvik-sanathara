@@ -4,7 +4,7 @@
 <img src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" alt="coding" with="400" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutvik-sanathara&label=Profile%20views&color=0e75b6&style=flat" alt="rutvik-sanathara" /> </p>
 
-- 🔭 I’m currently working on [Vaistra Technologies]
+- 🔭 I’m currently working on [Digiqt Technolabs]
 
 - 💬 Ask me about **React js , Next js , Laravel**
 
